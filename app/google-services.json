@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094499775311",
+    "firebase_url": "https://kee-music-player-1.firebaseio.com",
+    "project_id": "kee-music-player-1",
+    "storage_bucket": "kee-music-player-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094499775311:android:fcadff3d6c73ee0fcc4b3a",
+        "android_client_info": {
+          "package_name": "com.aniketvanja.keemusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094499775311-2h3dcrrps1ueami28843o3evqj8ep3vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aniketvanja.keemusicplayer",
+            "certificate_hash": "3d93abdc106612d94541db376790b181fd410849"
+          }
+        },
+        {
+          "client_id": "1094499775311-rte57s2beihtuq5g0159gfnke4pvjk11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGF8E2tLm98B2DT2B6ZHA060Yv7hcfkyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094499775311-rte57s2beihtuq5g0159gfnke4pvjk11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
